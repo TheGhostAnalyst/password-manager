@@ -3,7 +3,6 @@ import pyinputplus as Pyip
 from pathlib import Path
 import re
 
-
 def write(password):
     now = datetime.now()
     timestamp = now.strftime("%Y-%m-%d %H:%M")

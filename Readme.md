@@ -28,7 +28,7 @@ This tool allows users to securely store, view, and search for passwords associa
 
 1. **Clone this repo**  
    ```bash
-   git clone https://github.com/your-username/password-manager.git
+   git clone https://github.com/TheGhostAnalyst/password-manager.git
    cd password-manager
    pip install -r requirements.txt
 
